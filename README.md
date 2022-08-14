@@ -39,3 +39,15 @@ The fetch specification differs from jQuery.ajax() in three main ways:
 - The Promise returned from fetch() won't reject on HTTP error status even if the response is an HTTP 404 or 500. Instead, it will resolve normally (with ok status set to false), and it will only reject on network failure or if anything prevented the request from completing.
 
 - fetch() won't send cross-origin cookies unless you set the credentials init option (to include).
+
+## Axios
+
+![1660483442528](image/README/axios.png)
+
+![1660483460429](image/README/axios_options.png)
+
+## Fetach API -> Axios
+
+![1660483511439](image/README/1660483511439.png)
+
+![1660483569744](image/README/1660483569744.png)
