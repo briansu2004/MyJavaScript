@@ -75,3 +75,9 @@ The fetch specification differs from jQuery.ajax() in three main ways:
 ![1660484206882](image/README/fetch2axios_06_f.png)
 
 ![1660484244251](image/README/fetch2axios_06_a.png)
+
+## Mutation
+
+![1660484924548](image/README/mutation.png)
+
+![1660485329684](image/README/swr_mutation.png)
