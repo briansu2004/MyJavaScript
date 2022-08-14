@@ -46,8 +46,16 @@ The fetch specification differs from jQuery.ajax() in three main ways:
 
 ![1660483460429](image/README/axios_options.png)
 
-## Fetach API -> Axios
+## Fetch API -> Axios
 
-![1660483511439](image/README/1660483511439.png)
+![1660483511439](image/README/fetch2axios_01_f.png)
 
-![1660483569744](image/README/1660483569744.png)
+![1660483569744](image/README/fetch2axios_01_a.png)
+
+![1660483656504](image/README/fetch2axios_02_f.png)
+
+![1660483691617](image/README/fetch2axios_02_a.png)
+
+![1660483713087](image/README/fetch2axios_03_f.png)
+
+![1660483790833](image/README/fetch2axios_03_a.png)
